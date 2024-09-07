@@ -48,5 +48,8 @@ Predicted price for new house: $320000 ##PRICE OF HOUSE CAN BE PREDICTED
 LINK OF THE PROJECT :
 https://github.com/22FE1A6146/PRODIGY_ML_01
 
-SCREENSHOT OF PROJECT :
+SCREENSHOT OF PROJECT OUTPUT :
+
+
+
 <img width="617" alt="O1" src="https://github.com/user-attachments/assets/20f8e12e-6387-41e5-8b6d-192d8e23c280">
