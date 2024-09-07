@@ -23,7 +23,7 @@ Before you run the project, ensure that you have the following installed:
 
 You can install the required Python packages using the following command:
 
-```bash
+
 pip install -r requirements.txt
 numpy
 pandas
@@ -37,3 +37,17 @@ house-price-prediction/
 ├── house_price_prediction.py  # Main code for model training and evaluation
 ├── README.md          # Project documentation
 ├── requirements.txt   # Dependencies
+
+EXAMPLE OUTPUT :
+Mean Squared Error: 5123456.789
+R-squared: 0.865
+Coefficients: [123.45, -4567.89, 7890.12]
+Intercept: 65432.1
+Predicted price for new house: $320000 ##PRICE OF HOUSE CAN BE PREDICTED
+
+LINK OF THE PROJECT :
+https://github.com/22FE1A6146/PRODIGY_ML_01
+
+SCREENSHOT OF PROJECT :
+
+
